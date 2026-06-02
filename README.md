@@ -2,8 +2,6 @@
 
 API REST educativa para gestionar estudiantes. Código limpio, fácil de extender, pensado para aprendizaje, demos y experimentos con IA.
 
-> ⚠️ Nota: README anterior contenía descripciones duplicadas y comandos incorrectos para Windows. Esta versión unifica y corrige.
-
 ---
 
 ## 📌 Descripción
